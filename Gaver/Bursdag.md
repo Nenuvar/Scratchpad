@@ -1,0 +1,6 @@
+- [x] leireverktøy (finnes også på søstrene grene)
+- [x] rulle i glass til leire
+- [ ] linoleumsverktøy fra søstrene grene
+- [ ] water color sketch pad fra søstrene grene
+- [ ] thin wire fra søstrene grene
+- [ ] 

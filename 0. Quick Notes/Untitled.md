@@ -1,0 +1,23 @@
+---
+lastSync: Mon Oct 21 2024 14:15:42 GMT+0200 (sentraleuropeisk sommertid)
+---
+
+- ferdig pizzadeig 
+- brie
+- 2 gule løk
+- Peppes rød pizzasaus
+- chorizo i skiver
+- ferdig reven ost
+- kesam original 
+- walters mandler sjokoladeplate
+- 1,5 liter Villa uten sukker
+- mandariner
+- yoghurt
+- 1,5 sjokolademelk fra Tine
+- Toro betasuppe
+- pølse med høyt kjøttinnhold
+- 2 poteter
+- ruccola
+- knekkebrød
+- grove rundstykker
+- 

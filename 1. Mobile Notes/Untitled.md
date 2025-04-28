@@ -1,0 +1,40 @@
+---
+lastSync: Mon Oct 21 2024 14:15:42 GMT+0200 (sentraleuropeisk sommertid)
+---
+- [x] Hygieneartikler
+- [x] Shampo
+- [x] Tøymykner
+- [x] Matmuffins: 
+- [x] finmalt grovt mel, 
+- [x] havregryn, 
+- [x] paprika, 
+- [x] purre
+- [x] Tunfisksalat:
+- [x] tunfisk x2, 
+- [x] kesam original, 
+- [x] mais
+- [x] Mellommåltid: 
+- [x] druer, 
+- [x] mango, 
+- [x] bær, 
+- [x] sukkererter
+- [x] Sjokolademelk
+- [x] Ost
+- [x] Kyllingpålegg
+- [x] Avokado
+- [x] Agurk
+- [x] Druer x2
+- [x] Mandariner
+- [x] Kakao
+- [x] Hytteost x2
+- [x] Frukt
+- [x] Grønt
+- [x] Pizza
+- [x] Pizzabunn
+- [x] Peppes pizzasaus
+- [x] Chorizo
+- [x] Mozzarella
+- [x] Kesam original
+- [ ] Brus
+- [ ] Smågodt
+- [x] Popcorn?

@@ -1,0 +1,1 @@
+Installed and configured Timeshift for system snapshots and recovery

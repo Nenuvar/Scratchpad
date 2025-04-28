@@ -1,0 +1,11 @@
+---
+lastSync: Mon Oct 21 2024 14:15:42 GMT+0200 (sentraleuropeisk sommertid)
+---
+- [x] Kyllingfileter 4 stk
+- [x] Mangochutney
+- [x] Lett matfløte
+- [x] Rød paprika x2
+- [x] Aspargesbønner (frysedisk), evt ferske sukkererter
+- [x] Hurtigkokt ris
+- [ ] Koriander
+- [x] Naan

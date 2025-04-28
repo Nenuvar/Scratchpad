@@ -1,0 +1,1 @@
+https://www.lenovo.com/no/no/configurator/cto/index.html?bundleId=83FDCTO1WWNO2

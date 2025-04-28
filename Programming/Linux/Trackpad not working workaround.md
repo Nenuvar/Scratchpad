@@ -1,0 +1,1 @@
+Plug in an external USB mouse as a temporary fix

@@ -1,0 +1,12 @@
+---
+lastSync: Mon Oct 21 2024 14:15:42 GMT+0200 (sentraleuropeisk sommertid)
+---
+- [x] trekke regninger fra "regninger"-konto
+	- gjelder Microsoft 
+- [x] bytte internett
+- [ ] montere internett 
+- [ ] kjøpe pokemonoppbevaring x2
+- [ ] montere ny bilstol
+- [ ] montere peisgrind
+- [ ] fylle på luft på Toyotaen 
+- [ ] 

@@ -1,0 +1,22 @@
+---
+lastSync: Mon Oct 21 2024 14:15:42 GMT+0200 (sentraleuropeisk sommertid)
+---
+- [x] Kyllingfilet 600g
+- [x] Mango chutney
+- [x] Fløte lett
+- [x] Kikerter
+- [x] Squash
+- [x] Paprika
+- [x] Granateple
+- [x] Koriander
+- [x] Lime
+- [x] Ris
+- [x] Naan x1
+
+- [x] Kokosmelk x2
+- [x] Hvite bønner
+- [x] Kidneybønner x2
+- [ ] Paracet
+- [x] popcorn
+- [x] smågodt se meld
+- [x] krenfløte x2

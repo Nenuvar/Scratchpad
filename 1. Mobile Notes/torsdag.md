@@ -1,0 +1,17 @@
+- [x] Nachochips
+- [x] Bønner x4
+- [x] Tacokrydder
+- [x] Pita
+- [x] Hvite bønner
+- [x] Feta
+- [x] Mais
+- [x] Rødløk
+- [x] Mango
+- [x] Gul paprika
+- [x] Koriander
+- [x] Lime
+- [x] Kesam
+- [x] Salsa
+- [x] Avokado
+- [x] bringebær
+- [x] sjampo

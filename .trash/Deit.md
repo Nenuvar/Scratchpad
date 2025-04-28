@@ -1,0 +1,12 @@
+---
+lastSync: Mon Oct 21 2024 11:56:42 GMT+0200 (sentraleuropeisk sommertid)
+---
+- [x] Melk (1 stor / 2 små)
+- [x] Egg
+- [x] Hytteost (2)
+- [x] Soya
+- [x] Oppvasktabletter0
+- [x] Frukt
+- [x] Hoisin
+- [x] Ingefær
+- [ ] smågodt 

@@ -1,0 +1,14 @@
+{
+  "initial": "",
+  "terminal": "",
+  "date_format": "YYYY-MM-DD",
+  "template_path": "z_templates/List",
+  "note_path": "To-do",
+  "archive": true,
+  "archive_path": "z_archive",
+  "archive_date_format": "YYYY/MM-MMMM/YYYY-MM-DD",
+  "delete_empty_headings": true,
+  "keep_template_headings": true,
+  "run_on_startup": true,
+  "keep_until_parent_complete": false
+}
