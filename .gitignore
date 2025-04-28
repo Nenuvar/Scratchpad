@@ -1,0 +1,42 @@
+# ------------------------
+# OS/System files
+# ------------------------
+.DS_Store
+.trash
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.bak
+*~
+
+# ------------------------
+# Obsidian folders to ignore
+# ------------------------
+compendium/
+rules/
+
+# ------------------------
+# Obsidian UI + device-specific files to ignore
+# ------------------------
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/workspace-mobile.json
+
+# ------------------------
+# Obsidian plugin-related files to track
+# (Do NOT ignore these)
+# .obsidian/core-plugins.json
+# .obsidian/community-plugins.json
+# .obsidian/hotkeys.json (optional)
+# .obsidian/plugins/ (plugin configs)
+# .obsidian/snippets/ (custom CSS)
+# .obsidian/themes/ (if using custom themes)
+
+# ------------------------
+# Ignore plugin node_modules (if plugins are cloned manually)
+# ------------------------
+.obsidian/plugins/*/node_modules/
+.obsidian/plugins/*/.obsidian-staging
