@@ -1,0 +1,11 @@
+---
+lastSync: Mon Oct 21 2024 14:15:42 GMT+0200 (sentraleuropeisk sommertid)
+---
+- [x] druer
+- [x] ost
+- [x] kakao
+- [ ] snop 
+- [x] frossen mango
+- [x] epler eller frukt 
+- [x] grønnsaker (ikke gulrot)
+- [x] gresk yoghurt 
