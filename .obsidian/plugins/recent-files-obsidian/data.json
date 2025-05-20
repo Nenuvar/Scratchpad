@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-05-20",
+      "path": "To-do/2025-05-20.md"
+    },
+    {
+      "basename": "Andre biler",
+      "path": "Bil/Andre biler.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Bil/Untitled.md"
+    },
+    {
+      "basename": "Perm",
+      "path": "Hjem/Baby/Perm.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Hjem/Baby/Untitled.md"
+    },
+    {
+      "basename": "2025-05-19",
+      "path": "z_archive/2025/05-May/2025-05-19.md"
+    },
+    {
+      "basename": "Familien",
+      "path": "Hjem/Familien.md"
+    },
+    {
+      "basename": "Babyklær",
+      "path": "Hjem/Baby/Babyklær.md"
+    },
+    {
+      "basename": "Navn",
+      "path": "Hjem/Baby/Navn.md"
+    },
+    {
       "basename": "2025-05-18",
       "path": "To-do/2025-05-18.md"
     },
@@ -59,10 +95,6 @@
     {
       "basename": "Trening 2025",
       "path": "Trening/Trening 2025.md"
-    },
-    {
-      "basename": "Perm",
-      "path": "Baby/Perm.md"
     },
     {
       "basename": "Untitled",
@@ -167,38 +199,6 @@
     {
       "basename": "App installation",
       "path": "1. Mobile Notes/App installation.md"
-    },
-    {
-      "basename": "1. Organisation",
-      "path": "Programming/Linux/1. Organisation.md"
-    },
-    {
-      "basename": "2025-04-12",
-      "path": "z_archive/2025/04-April/2025-04-12.md"
-    },
-    {
-      "basename": "Closing lid freeze",
-      "path": "Programming/Linux/Closing lid freeze.md"
-    },
-    {
-      "basename": "Create a bootable USB",
-      "path": "Programming/Linux/Create a bootable USB.md"
-    },
-    {
-      "basename": "Post USB Boot - Install Linux Lite on Chromebook",
-      "path": "Programming/Linux/Post USB Boot - Install Linux Lite on Chromebook.md"
-    },
-    {
-      "basename": "RAM Monitoring",
-      "path": "Programming/Linux/RAM Monitoring.md"
-    },
-    {
-      "basename": "Timeshift backup",
-      "path": "Programming/Linux/Timeshift backup.md"
-    },
-    {
-      "basename": "Trackpad not working workaround",
-      "path": "Programming/Linux/Trackpad not working workaround.md"
     }
   ],
   "omittedPaths": [],
